@@ -1,4 +1,5 @@
- With the rapid advancement of artificial intelligence (AI) and deep learning, the need  
+<h1>Emotion Detection and Anamoly Recognition in Crowds : Spotting Suspicious Behaviour</h1>
+With the rapid advancement of artificial intelligence (AI) and deep learning, the need  
 for intelligent surveillance systems capable of interpreting human behavior has gained critical  
 importance. This project proposes a real-time emotion recognition and anomaly detection system  
 using deep learning techniques for smart surveillance applications. The primary objective is to  
