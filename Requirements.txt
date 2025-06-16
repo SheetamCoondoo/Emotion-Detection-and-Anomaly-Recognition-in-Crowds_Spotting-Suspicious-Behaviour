@@ -1,0 +1,21 @@
+# Core requirements
+opencv-python
+numpy
+Pillow
+dearpygui
+tensorflow
+
+# Optional depending on TensorFlow version (if GPU is needed)
+# tensorflow-gpu
+
+# For building EXE files
+auto-py-to-exe
+
+# If you're using a specific version of Python or need compatibility,
+# you can pin versions like this:
+# opencv-python==4.8.0.74
+# numpy==1.24.2
+# Pillow==9.4.0
+# dearpygui==1.10.0
+# tensorflow==2.13.0
+# auto-py-to-exe==2.33.0
